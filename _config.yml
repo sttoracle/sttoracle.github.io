@@ -4,8 +4,7 @@ email:
 description: "Oracle Cloud Security and Management."
 baseurl: ""
 url: "http://sttoracle.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+github_username:  sttoracle
 
 # Build settings
 markdown: kramdown
