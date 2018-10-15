@@ -9,7 +9,7 @@ This guide describes the end-to-end process of configuring FA provisioning appli
 
 1.  Download IDCS Metadata to a local XML file
 
-    ![](/images/2018-10-15/idcsmetadata.png){:class="img-responsive"}
+    ![](/images/2018-10-15/idcsmetadata.png){:height="700px" width="400px"}
     
     
 	>**Note:** **Step 2-10** need to be executed to enable federated SSO 
