@@ -3,7 +3,7 @@ layout: Step by step instructions
 title: IDCS Fusion Apps Integration
 ---
 
-This guide describes the end-to-end process of configuring FA provisioning Application in IDCS. This App has been tested against Fusion Apps R13 environment.
+This guide describes the end-to-end process of configuring FA provisioning application in IDCS. This app has been tested against Fusion Apps R13 environment.
 
 # **Step-by-step guide**
 
