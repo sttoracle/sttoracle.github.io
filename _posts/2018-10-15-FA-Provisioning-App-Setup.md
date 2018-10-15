@@ -3,8 +3,6 @@ layout: Step by step instructions
 title: IDCS Fusion Apps Integration
 ---
 
-# Fusion Apps Setup in IDCS
-
 This guide describes the end-to-end process of configuring FA provisioning Application in IDCS. This App has been tested against Fusion Apps R12 demo environment from GSE. It has not yet been tested against production Oracle SAAS cloud.
 
 # **Step-by-step guide**
