@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Oracle Security and Management in Cloud
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Covering Oracle's cloud security and management solutions - Identity Cloud Service (IDCS), Cloud Access Security Broker (CASB), Oracle Management Cloud (OMC)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sttoracle@gmail.com](mailto:sttoracle@gmail.com)
