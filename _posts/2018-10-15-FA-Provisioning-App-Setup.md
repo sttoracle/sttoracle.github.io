@@ -38,12 +38,11 @@ This guide describes the end-to-end process of configuring FA provisioning appli
 
 8. 	 Save the configuration
 
-9.   Obtain the <font color="blue"><u>Entity ID</u></font> from the Federation SP metadata for SIM from **Oracle Support**. Typically it is of the form - [https://{Tenant}-idm.{Domain}/fed
-]()
+9.   Obtain the <font color="blue"><u>Entity ID</u></font> from the Federation SP metadata for SIM from **Oracle Support**. Typically it is of the form - [https://{Tenant}-idm.{Domain}/fed]()
 
 10.  Obtain the SP metadata <font color="blue"><u>Signing Certificate</u></font> for SIM from **Oracle Support**. 
 
-	> If you have access to SIM, you can build the certificate from the metadata. The metadata is avialble from - h[ttps://{Tenant}-idm.{Domain}/fed/sp/metadata](). Once you have the metadata, you can create the certificate file manually using the value of **&lt;X509Certificate&gt;** tag inside the metadata.
+	> If you have access to SIM, you can build the certificate from the metadata. The metadata is avialble from - [https://{Tenant}-idm.{Domain}/fed/sp/metadata](). Once you have the metadata, you can create the certificate file manually using the value of **&lt;X509Certificate&gt;** tag inside the metadata.
 
 
 9.  Go to <font color="blue"><u>IDCS Admin console</u></font> -&gt; <font color="blue"><u>Applications</u></font> tab
